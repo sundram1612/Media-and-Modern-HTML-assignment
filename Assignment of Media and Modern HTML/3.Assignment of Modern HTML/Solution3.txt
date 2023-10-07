@@ -1,0 +1,13 @@
+3. What is Web accessibility? List some of the assitive devies which play a major role in providing accessibility.
+
+Ans- Web accessibility refers to the practice of making websites and web applications accessible to people with disabilities. This includes people who are blind or visually impaired, deaf or hard of hearing, and people with other disabilities that affect their ability to access or use the web.
+
+There are a number of assistive devices that can help people with disabilities access the web. These include:
+
+(i) Screen readers: Screen readers are software applications that read aloud the text on a computer screen. They can be used by people who are blind or visually impaired to access websites and other digital content.
+
+(ii) Braille displays: Braille displays are devices that convert text into Braille, a tactile writing system that can be read by people who are blind or visually impaired.
+
+(iii) Speech recognition software: Speech recognition software allows people to control their computers using their voices. This can be helpful for people who have difficulty using a keyboard or mouse.
+
+(iv) Head-tracking devices: Head-tracking devices allow people to control their computers using their head movements. This can be helpful for people who have difficulty using their hands or arms.

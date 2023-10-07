@@ -1,0 +1,4 @@
+7.  What are the benefits of using semantic tags in our webpage.
+Ans- Semantic tags are used to define the structure and meaning of a webpage. They provide information about the content of a webpage, making it easier for search engines and other web crawlers to understand and index the page. This can lead to improved search engine rankings and increased visibility for the website.
+
+In addition, semantic tags can help to improve the user experience by making it easier for users to navigate and understand the content of a webpage. For example, headings and subheadings can be used to break up the content into logical sections, making it easier for users to skim the page and find the information they are looking for.

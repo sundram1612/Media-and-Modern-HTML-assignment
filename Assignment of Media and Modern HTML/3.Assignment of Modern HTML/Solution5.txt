@@ -1,0 +1,12 @@
+5. Write a short note on the tab-index.
+
+Ans- The tabindex attribute is used to specify the position of an element in the tab order of a document. The tab order is the order in which elements receive focus when the user presses the Tab key.
+
+The tabindex attribute can be set to a positive integer, which specifies the position of the element in the tab order, or to -1, which removes the element from the tab order.
+
+For ex- the following HTML code specifies that the first input element will receive focus when the user presses the Tab key, and that the second input element will be skipped:
+
+<input tabindex="1">
+<input tabindex="-1">
+The tabindex attribute can be used to improve the accessibility of a document by allowing users to navigate the document using the keyboard. It can also be used to create custom tab orders for specific elements.
+
